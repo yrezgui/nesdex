@@ -1,0 +1,3 @@
+rootProject.name = 'Nesdex'
+
+include ':app'
